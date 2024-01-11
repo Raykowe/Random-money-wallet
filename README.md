@@ -12,6 +12,7 @@ Restart the server so item can be usable and have fun. You can add this item as 
 
 # Step three - configure
 You can configure the money chance in server.lua at line 5.
+You can see when someone is using the item in the console.
 
 # For more
 If you want more free script please give star to this post. Thanks!

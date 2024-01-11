@@ -5,7 +5,7 @@ This script makes your item to can be used and give you cash when you use it
 # Instalation
 # Step one
 Add this to your qb-core items folder:
-["random_cash"] = {["name"] = "random_cash", ["label"] = "Mystery Cash Envelope", ["weight"] = 1, ["type"] = "item", ["image"] = "random_cash.png", ["unique"] = true, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Money wallet"},
+["wallet_cash"] = {["name"] = "random_cash", ["label"] = "Wallet with random money", ["weight"] = 1, ["type"] = "item", ["image"] = "wallet_cash.png", ["unique"] = true, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "Money wallet"},
 
 # Step two
 Restart the server so item can be usable and have fun

@@ -1,4 +1,4 @@
-# Money-wallet-item
+#Random-money-wallet
 This script makes your item to can be used and give you cash when you use it
 
 
